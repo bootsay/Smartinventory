@@ -131,14 +131,13 @@ Partial Class Form1
         Me.CrystalReportViewer1.Cursor = System.Windows.Forms.Cursors.Default
         Me.CrystalReportViewer1.Location = New System.Drawing.Point(247, 101)
         Me.CrystalReportViewer1.Name = "CrystalReportViewer1"
-        Me.CrystalReportViewer1.Size = New System.Drawing.Size(150, 150)
         Me.CrystalReportViewer1.TabIndex = 9
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(549, 442)
+        Me.ClientSize = New System.Drawing.Size(626, 442)
         Me.Controls.Add(Me.CrystalReportViewer1)
         Me.Controls.Add(Me.Button9)
         Me.Controls.Add(Me.Button7)
@@ -163,5 +162,5 @@ Partial Class Form1
     Friend WithEvents Button7 As System.Windows.Forms.Button
     Friend WithEvents Button8 As System.Windows.Forms.Button
     Friend WithEvents Button9 As System.Windows.Forms.Button
-    Friend WithEvents CrystalReportViewer1 As CrystalDecisions.Windows.Forms.CrystalReportViewer
+    Private WithEvents CrystalReportViewer1 As CrystalDecisions.Windows.Forms.CrystalReportViewer
 End Class

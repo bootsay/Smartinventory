@@ -40,7 +40,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("SERVERDELL\MSSQL2008")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("DESKTOP-CQKLPMF\SQL2012")>  _
     Public Property servername() As String
         Get
             Return CType(Me("servername"),String)
@@ -64,7 +64,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("sa1")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("sa")>  _
     Public Property username() As String
         Get
             Return CType(Me("username"),String)
@@ -76,7 +76,7 @@ Partial Friend NotInheritable Class configuration
     
     <Global.System.Configuration.UserScopedSettingAttribute(),  _
      Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-     Global.System.Configuration.DefaultSettingValueAttribute("bootvong1")>  _
+     Global.System.Configuration.DefaultSettingValueAttribute("bootvong")>  _
     Public Property password() As String
         Get
             Return CType(Me("password"),String)

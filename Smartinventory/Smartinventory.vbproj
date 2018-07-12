@@ -52,10 +52,10 @@
     <ApplicationIcon>2.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
-    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
-    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
-    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="DevComponents.DotNetBar2">
       <HintPath>..\..\backup\Smartinventory\Smartinventory\bin\Debug\DevComponents.DotNetBar2.dll</HintPath>
     </Reference>
@@ -111,6 +111,12 @@
       <DependentUpon>frmmoneycapitaltotal.vb</DependentUpon>
     </Compile>
     <Compile Include="Finance\frmmoneycapitaltotal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Formreport\frmreportsaledetaillist2.designer.vb">
@@ -985,6 +991,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Finance\frmmoneycapitaltotal.resx">
       <DependentUpon>frmmoneycapitaltotal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formreport\frmreportsaledetaillist2.resx">
       <DependentUpon>frmreportsaledetaillist2.vb</DependentUpon>

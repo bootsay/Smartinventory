@@ -6,16 +6,16 @@
       <Value Profile="(Default)">smartinventory</Value>
     </Setting>
     <Setting Name="servername" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SERVERDELL\MSSQL2008</Value>
+      <Value Profile="(Default)">DESKTOP-CQKLPMF\SQL2012</Value>
     </Setting>
     <Setting Name="printername" Type="System.String" Scope="User">
       <Value Profile="(Default)">Adobe PDF</Value>
     </Setting>
     <Setting Name="username" Type="System.String" Scope="User">
-      <Value Profile="(Default)">sa1</Value>
+      <Value Profile="(Default)">sa</Value>
     </Setting>
     <Setting Name="password" Type="System.String" Scope="User">
-      <Value Profile="(Default)">bootvong1</Value>
+      <Value Profile="(Default)">bootvong</Value>
     </Setting>
   </Settings>
 </SettingsFile>
