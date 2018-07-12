@@ -1,0 +1,416 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Smartinventory
+</name>
+</assembly>
+<members>
+<member name="P:Smartinventory.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._1451113132_Customer_Male_Light">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._1451113132_Customer_Male_Light1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._1453721924_autoship">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._1472720664_document_open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._1489493744_exit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources._Erase">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Add_product">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.add1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.add2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.add4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.admin_settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.admin_settings1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.backup">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Cancel">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Clear">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.CMYK">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Create">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.custom_reports_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.delete2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.edit_delete_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.edit_gnote_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.edit_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.edit_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Edit_page">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.exchange__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.folder_customer_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.folder_customer_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.folder_customer_icon2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Home">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.iBarcoder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.LAB_color_model">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.list_ico">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.list1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.LOGOWathashi1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Menu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.money1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.New_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Ok">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Open">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Open_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.order">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Pen">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.personal_loan_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.print_and_save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Product_documentation_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.product_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.receipt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.receipt1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.receipt2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.receipt3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Report">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Save_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Search">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Search1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.Settings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Smartinventory.My.Resources.Resources.shopping_cart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Smartinventory.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Smartinventory.mydata.tbbusinessDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.sumaryproductin_outDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.SumarysaledebitDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewcustomerBill_listDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewsumaryallbillDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewbillby_customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewsumarybillbuycustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.tbwithdrawDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Smartinventory.mydata.tbbusinessRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.sumaryproductin_outRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.SumarysaledebitRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewcustomerBill_listRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewsumaryallbillRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewbillby_customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.viewsumarybillbuycustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.tbwithdrawRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Smartinventory.mydata.tbbusinessRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.sumaryproductin_outRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.SumarysaledebitRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.viewcustomerBill_listRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.viewsumaryallbillRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.viewbillby_customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.viewsumarybillbuycustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata.tbwithdrawRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Smartinventory.mydata">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.tbbusinessTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.sumaryproductin_outTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.SumarysaledebitTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.viewcustomerBill_listTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Smartinventory.mydataTableAdapters.TableAdapterManager.UpdateUpdatedRows(Smartinventory.mydata,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Smartinventory.mydataTableAdapters.TableAdapterManager.UpdateInsertedRows(Smartinventory.mydata,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Smartinventory.mydataTableAdapters.TableAdapterManager.UpdateDeletedRows(Smartinventory.mydata,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Smartinventory.mydataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Smartinventory.mydataTableAdapters.TableAdapterManager.UpdateAll(Smartinventory.mydata)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Smartinventory.mydataTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
